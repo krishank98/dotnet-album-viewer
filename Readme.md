@@ -1,4 +1,4 @@
-﻿# West Wind Album Viewer ASP.NET Core Sample
+﻿# West Wind Album Viewer ASP.NET Core Sample..
 
 This is a forked version of [Album Viewr Sample](https://github.com/dockersamples/dotnet-album-viewer) by dockersamples which itself is forked from [Rick Srahl's app](https://github.com/RickStrahl/AlbumViewerVNext). This version  is compatible with the new style of containerising  .NET Core applications. 
 
